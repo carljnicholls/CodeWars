@@ -15,13 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingDuplicates", "Count
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicates.Test", "CountingDuplicates.Test\CountingDuplicates.Test.csproj", "{4C6E8908-767E-4670-A002-D599DBAADB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{601F3383-BFCE-4824-84BC-F7120CC825F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{601F3383-BFCE-4824-84BC-F7120CC825F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin.Test", "SimplePigLatin.Test\SimplePigLatin.Test.csproj", "{EB62EAC7-2212-40B9-9F8A-AF71C1324B93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNthNumber.Test", "DeleteNthNumber.Test\DeleteNthNumber.Test.csproj", "{309B96CD-4D64-4724-BEF6-CD21B0B72E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNthNumber", "DeleteNthNumber\DeleteNthNumber.csproj", "{5AEDFA71-BC83-480E-8E19-D96AA4D2F090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteNthNumber", "DeleteNthNumber\DeleteNthNumber.csproj", "{5AEDFA71-BC83-480E-8E19-D96AA4D2F090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleCase.Test", "TitleCase.Test\TitleCase.Test.csproj", "{795EB9C3-16FB-4D13-826B-48BEE7EF26D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitleCase", "TitleCase\TitleCase.csproj", "{F73C4B02-8AE3-4530-9D36-EFB9C144A0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{5AEDFA71-BC83-480E-8E19-D96AA4D2F090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEDFA71-BC83-480E-8E19-D96AA4D2F090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEDFA71-BC83-480E-8E19-D96AA4D2F090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795EB9C3-16FB-4D13-826B-48BEE7EF26D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795EB9C3-16FB-4D13-826B-48BEE7EF26D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795EB9C3-16FB-4D13-826B-48BEE7EF26D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795EB9C3-16FB-4D13-826B-48BEE7EF26D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73C4B02-8AE3-4530-9D36-EFB9C144A0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C4B02-8AE3-4530-9D36-EFB9C144A0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C4B02-8AE3-4530-9D36-EFB9C144A0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C4B02-8AE3-4530-9D36-EFB9C144A0A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
